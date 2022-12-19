@@ -1,4 +1,4 @@
--- credit to TheAMM
+-- credit to brunurb
 
 local size_changed = false
 
