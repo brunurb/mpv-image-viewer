@@ -11,4 +11,4 @@ mp.register_idle(function()
 end)
 
 mp.observe_property("osd-width", "native", function() size_changed = true end)
-mp.observe_property("osd-height", "native", function() size_changed = false end)
+mp.observe_property("osd-height", "native", function() size_changed = true end)
